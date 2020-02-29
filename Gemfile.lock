@@ -30,8 +30,8 @@ GEM
     execjs (2.6.0)
     fastimage (1.8.1)
       addressable (~> 2.3, >= 2.3.5)
-    ffi (1.9.10)
-    ffi (1.9.10-x64-mingw32)
+    ffi (1.11.3)
+    ffi (1.11.3-x64-mingw32)
     haml (4.0.7)
       tilt
     hamster (2.0.0)
